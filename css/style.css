@@ -36,7 +36,7 @@ a{
   float: left;
 }
 
-.n:hover{
+.nav-link:hover{
   background-color: #4090F7;
   transition: all 0.5s;
 }
